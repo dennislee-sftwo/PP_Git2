@@ -99,6 +99,7 @@
     "UserLocale": "zh-TW"
   },
   "ScreenOrder": [
-    "Screen1"
+    "Screen1",
+    "Screen2"
   ]
 }
