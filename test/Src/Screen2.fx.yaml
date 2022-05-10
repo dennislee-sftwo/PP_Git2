@@ -19,7 +19,7 @@
         Layout: =Layout.Vertical
         TemplatePadding: =0
         TemplateSize: =Min(160, Self.Height - 60)
-        Width: =Parent.Width
+        Width: =621
         Y: =64
         ZIndex: =3
 
@@ -81,4 +81,10 @@
             Width: =Parent.TemplateWidth
             Y: =Parent.TemplateHeight - 1
             ZIndex: =5
+
+    Button2 As button:
+        Text: ="按鈕"
+        X: =736
+        Y: =152
+        ZIndex: =4
 
