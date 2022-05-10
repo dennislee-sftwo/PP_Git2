@@ -16,7 +16,7 @@
     "Title2": 11
   },
   "FunctionParamsInvariantScripts": {},
-  "HeaderLastSavedDateTimeUTC": "05/10/2022 09:57:48",
+  "HeaderLastSavedDateTimeUTC": "05/10/2022 09:59:22",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -58,12 +58,18 @@
   },
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.0472063,
+    "AnalysisLoadTime": 0.1437783,
     "ControlCount": {
       "button": 1,
-      "screen": 1
+      "gallery": 1,
+      "galleryTemplate": 1,
+      "icon": 1,
+      "image": 1,
+      "label": 3,
+      "rectangle": 2,
+      "screen": 2
     },
-    "DeserializationLoadTime": 0.4536564,
+    "DeserializationLoadTime": 0.588006,
     "ErrorCount": 0
   },
   "WasLocalDatabaseReferencesEmpty": true
