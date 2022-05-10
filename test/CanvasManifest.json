@@ -1,8 +1,8 @@
 {
   "FormatVersion": "0.24",
   "Header": {
-    "DocVersion": "1.323",
-    "MinVersionToLoad": "1.323",
+    "DocVersion": "1.324",
+    "MinVersionToLoad": "1.324",
     "MSAppStructureVersion": "2.0"
   },
   "Properties": {
@@ -83,6 +83,7 @@
     "FileID": "e508323d-f656-4774-a455-e49879b9ecb0",
     "Id": "e508323d-f656-4774-a455-e49879b9ecb0",
     "InstrumentationKey": "",
+    "LocalDatabaseReferences": "{}",
     "Name": "Git LAB",
     "OriginatingVersion": "1.323"
   },
@@ -95,7 +96,7 @@
     "PublishDataLocally": false,
     "PublishResourcesLocally": false,
     "PublishTarget": "player",
-    "UserLocale": "en-US"
+    "UserLocale": "zh-TW"
   },
   "ScreenOrder": [
     "Screen1"
