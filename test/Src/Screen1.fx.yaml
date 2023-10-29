@@ -5,7 +5,7 @@ Screen1 As screen:
         Height: =440
         Text: ="Dennis Buttonadadad"
         Width: =1050
-        X: =40
-        Y: =40
+        X: =140
+        Y: =164
         ZIndex: =1
 

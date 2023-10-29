@@ -39,7 +39,7 @@
     "LastModifiedTimestamp": "0",
     "Name": "gallery",
     "OverridableProperties": {},
-    "Version": "2.13.0"
+    "Version": "2.13.2"
   },
   "galleryTemplate": {
     "CustomGroupControlTemplateName": "",
@@ -64,6 +64,21 @@
     "LastModifiedTimestamp": "0",
     "Name": "groupContainer",
     "Version": "1.0"
+  },
+  "Host": {
+    "CustomGroupControlTemplateName": "",
+    "FirstParty": true,
+    "HostType": "Default",
+    "Id": "http://microsoft.com/appmagic/hostcontrol",
+    "IsComponentTemplate": false,
+    "IsCustomGroupControlTemplate": false,
+    "IsPcfControl": false,
+    "IsPremiumPcfControl": false,
+    "IsWidgetTemplate": false,
+    "LastModifiedTimestamp": "0",
+    "Name": "hostControl",
+    "OverridableProperties": {},
+    "Version": "1.6.0"
   },
   "icon": {
     "CustomGroupControlTemplateName": "",
@@ -91,7 +106,7 @@
     "LastModifiedTimestamp": "0",
     "Name": "image",
     "OverridableProperties": {},
-    "Version": "2.2.0"
+    "Version": "2.2.2"
   },
   "label": {
     "CustomGroupControlTemplateName": "",
@@ -105,7 +120,7 @@
     "LastModifiedTimestamp": "0",
     "Name": "label",
     "OverridableProperties": {},
-    "Version": "2.5.0"
+    "Version": "2.5.1"
   },
   "rectangle": {
     "CustomGroupControlTemplateName": "",

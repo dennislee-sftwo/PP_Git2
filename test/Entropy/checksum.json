@@ -1,34 +1,38 @@
 {
   "ClientBuildDetails": {
-    "CommitHash": "1d655cdd2a5cbc6105ebb21f2e11d9eb7412db73",
+    "CommitHash": "941f06c8f5cf7a493289e9514c8dec5c50b61d34",
     "IsLocalBuild": false
   },
   "ClientPerFileChecksums": {
-    "AppCheckerResult.sarif": "C8_FLUIGWPd/Jifm8PHrRI2cNIXNti+YrtO8igr05FhT7k=",
-    "Controls\\1.json": "C8_DxuHHiPeyyuFhYCYipObPGR/XuUWE04niIJno/Jsb9k=",
-    "Controls\\3.json": "C8_qhdCE9hOGM7qxJrc3HbDqqN3EE6Qz7iNFopLu9EwlqU=",
-    "Controls\\5.json": "C8_lTR+JeO8reVqv62cXXxp1jHC4KS0CJ+q5vTmjRyL5fE=",
-    "Header.json": "C8_v6s5M33alUJnn7lqdwPJ+pnQLdxNYh8qhyjiim90Uqk=",
-    "Properties.json": "C8_QLNoqB6vXDNUDfZ2/y0wRgv7HueL2BcV542lQzDvO7g=",
+    "AppCheckerResult.sarif": "C8_lYiJHlBfUunDTYtZJtjwaq3PQuuc2JJGQ6Qp+MQxCyg=",
+    "Controls\\1.json": "C8_cU+OV5ZCMM6OzJdQmsEocXkagMvtxNOJhRGm+gdpRLc=",
+    "Controls\\17.json": "C8_YQkECnaxzg5cVyMNDZll2trQnRXA3h+Z7f4QaebF5TI=",
+    "Controls\\4.json": "C8_GVf8Y9/Wc2j+d0DbPRcOokOs6x04x0ivihuyZLlbAYQ=",
+    "Controls\\6.json": "C8_uQeKgoME3O9xDveTf/p0DIRbLLBBFV7jed+SGppKe0o=",
+    "Header.json": "C8_Pm4gRcWdngaEjtAy9oUIhc8bRuLhsDD9Q6o4cfeN2Kc=",
+    "Properties.json": "C8_pbvwNQNjycaXvfvIfKCFVaB623yhfbdkyxYNz090C2o=",
     "References\\DataSources.json": "C8_bSi7CkSh6KfufXvbOlZaORyh3OOl6Cloq0BniqsHfY0=",
+    "References\\ModernThemes.json": "C8_KDQJ/3t27vgKx25iCQB/PGqxkWE34ZB7Eyb+RxNxY0k=",
     "References\\Resources.json": "C8_s+se9qfOYnCKwfIt6gbv1FGBHW47JCt5d/CkUpqbcjk=",
-    "References\\Templates.json": "C8_GUXJQSGt/3ZuJAOBa3GniEJ3wQV+2UEnc+nLtFNtOjQ=",
-    "References\\Themes.json": "C8_ICevVr7hFBimNEmK/6NDb4YE2H0Ri8BUiWgASaENw7U=",
-    "Resources\\PublishInfo.json": "C8_+Dlfn9GwIT0N+U1ka/HgZT0HEXijNbQEuOgr8+uuPB4="
+    "References\\Templates.json": "C8_2is3r0sLOE9B9U0sgRM6I7mpI0KXDlnEUqbsCi3r2Bw=",
+    "References\\Themes.json": "C8_c3o67xWgcKE08Aet0I6feE5XDEo8c9IkRs++0+4e/5M=",
+    "Resources\\PublishInfo.json": "C8_7IDwmwanzwU27Gmnv+tWQvIs9ZsDeY2V9z50HLq05jw="
   },
-  "ClientStampedChecksum": "C8_sj3c80FTjZ174X5fvS+yya0hwj/qWNfQD3U5fgVtLuA=",
+  "ClientStampedChecksum": "C8_RtmOOioB+3FtZr66j92Al7Rv7JIeRPYCWA08fku1JjY=",
   "ServerPerFileChecksums": {
-    "AppCheckerResult.sarif": "C8_FLUIGWPd/Jifm8PHrRI2cNIXNti+YrtO8igr05FhT7k=",
-    "Controls\\1.json": "C8_DxuHHiPeyyuFhYCYipObPGR/XuUWE04niIJno/Jsb9k=",
-    "Controls\\3.json": "C8_qhdCE9hOGM7qxJrc3HbDqqN3EE6Qz7iNFopLu9EwlqU=",
-    "Controls\\5.json": "C8_lTR+JeO8reVqv62cXXxp1jHC4KS0CJ+q5vTmjRyL5fE=",
-    "Header.json": "C8_v6s5M33alUJnn7lqdwPJ+pnQLdxNYh8qhyjiim90Uqk=",
-    "Properties.json": "C8_QLNoqB6vXDNUDfZ2/y0wRgv7HueL2BcV542lQzDvO7g=",
+    "AppCheckerResult.sarif": "C8_lYiJHlBfUunDTYtZJtjwaq3PQuuc2JJGQ6Qp+MQxCyg=",
+    "Controls\\1.json": "C8_cU+OV5ZCMM6OzJdQmsEocXkagMvtxNOJhRGm+gdpRLc=",
+    "Controls\\17.json": "C8_YQkECnaxzg5cVyMNDZll2trQnRXA3h+Z7f4QaebF5TI=",
+    "Controls\\4.json": "C8_GVf8Y9/Wc2j+d0DbPRcOokOs6x04x0ivihuyZLlbAYQ=",
+    "Controls\\6.json": "C8_uQeKgoME3O9xDveTf/p0DIRbLLBBFV7jed+SGppKe0o=",
+    "Header.json": "C8_Pm4gRcWdngaEjtAy9oUIhc8bRuLhsDD9Q6o4cfeN2Kc=",
+    "Properties.json": "C8_pbvwNQNjycaXvfvIfKCFVaB623yhfbdkyxYNz090C2o=",
     "References\\DataSources.json": "C8_bSi7CkSh6KfufXvbOlZaORyh3OOl6Cloq0BniqsHfY0=",
+    "References\\ModernThemes.json": "C8_KDQJ/3t27vgKx25iCQB/PGqxkWE34ZB7Eyb+RxNxY0k=",
     "References\\Resources.json": "C8_s+se9qfOYnCKwfIt6gbv1FGBHW47JCt5d/CkUpqbcjk=",
-    "References\\Templates.json": "C8_GUXJQSGt/3ZuJAOBa3GniEJ3wQV+2UEnc+nLtFNtOjQ=",
-    "References\\Themes.json": "C8_ICevVr7hFBimNEmK/6NDb4YE2H0Ri8BUiWgASaENw7U=",
-    "Resources\\PublishInfo.json": "C8_+Dlfn9GwIT0N+U1ka/HgZT0HEXijNbQEuOgr8+uuPB4="
+    "References\\Templates.json": "C8_2is3r0sLOE9B9U0sgRM6I7mpI0KXDlnEUqbsCi3r2Bw=",
+    "References\\Themes.json": "C8_c3o67xWgcKE08Aet0I6feE5XDEo8c9IkRs++0+4e/5M=",
+    "Resources\\PublishInfo.json": "C8_7IDwmwanzwU27Gmnv+tWQvIs9ZsDeY2V9z50HLq05jw="
   },
-  "ServerStampedChecksum": "C8_sj3c80FTjZ174X5fvS+yya0hwj/qWNfQD3U5fgVtLuA="
+  "ServerStampedChecksum": "C8_RtmOOioB+3FtZr66j92Al7Rv7JIeRPYCWA08fku1JjY="
 }
