@@ -29,3 +29,8 @@ Screen5 As screen:
         Y: =236
         ZIndex: =3
 
+    Rectangle1 As rectangle:
+        X: =940
+        Y: =555
+        ZIndex: =4
+
