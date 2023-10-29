@@ -12,3 +12,13 @@ Screen5 As screen:
         Y: =387
         ZIndex: =2
 
+    Label3 As label:
+        FontWeight: =FontWeight.Bold
+        Height: =172
+        Size: =20
+        Text: ="Dennis Label"
+        Width: =322
+        X: =900
+        Y: =288
+        ZIndex: =2
+
