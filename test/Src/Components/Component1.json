@@ -68,7 +68,7 @@
         "Name": "Label4",
         "Parent": "Component1",
         "PersistMetaDataIDKey": false,
-        "PublishOrderIndex": 2,
+        "PublishOrderIndex": 16,
         "Rules": [
           {
             "Category": "Data",

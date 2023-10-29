@@ -22,9 +22,9 @@ Screen5 As screen:
         Y: =387
         ZIndex: =2
 
-    Component1_1 As Component1:
-        Height: =88
-        Width: =268
+    ComponentRename_Dennis As Component1:
+        Height: =151
+        Width: =354
         X: =856
         Y: =236
         ZIndex: =3
