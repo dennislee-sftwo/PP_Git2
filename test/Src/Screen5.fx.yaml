@@ -12,8 +12,8 @@ Screen5 As screen:
         Size: =20
         Text: ="Dennis Label"
         Width: =322
-        X: =900
-        Y: =288
+        X: =872
+        Y: =52
         ZIndex: =2
 
     Button3 As button:
@@ -21,4 +21,11 @@ Screen5 As screen:
         X: =40
         Y: =387
         ZIndex: =2
+
+    Component1_1 As Component1:
+        Height: =88
+        Width: =268
+        X: =856
+        Y: =236
+        ZIndex: =3
 
